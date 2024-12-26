@@ -1,0 +1,8 @@
+Êþº¾   A 
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;  Animal makes a sound
+       java/io/PrintStream  println (Ljava/lang/String;)V   Animal Code LineNumberTable 	makeSound 
+SourceFile 	Main.java                       *· ±                    %     	²  
+¶ ±       
+            
